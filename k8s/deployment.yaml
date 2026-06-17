@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: employee-service
-        image: srihari25/employee-service:latest
+        image: srihari25/employee-service:10
         ports:
         - containerPort: 8080
